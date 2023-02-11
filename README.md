@@ -1,7 +1,7 @@
 # The-Sparks-Foundation-Internship-Tasks
 This Repo Contains the Notebooks of all the Task that i did for GRIP Feb-2023 at The Sparks Foundation.
  - Internship Category - Data Science and Business Analytics
- - Internship Duration - 1 Month ( October-2020 )
+ - Internship Duration - 1 Month
  - Internship Type - Work from Home
  
  # Task-1 : Prediction using Supervised ML (Level - Beginner)
