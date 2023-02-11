@@ -16,3 +16,8 @@ This Repo Contains the Notebooks of all the Task that i did for GRIP Feb-2023 at
 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 2. Use R or Python or perform this task.
+
+# Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+
+For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
+The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
