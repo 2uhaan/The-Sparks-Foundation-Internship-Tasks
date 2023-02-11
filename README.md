@@ -19,5 +19,5 @@ This Repo Contains the Notebooks of all the Task that i did for GRIP Feb-2023 at
 
 # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 
-For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
-The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
+2. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
